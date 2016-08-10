@@ -1,0 +1,30 @@
+c:\users\ferhat\documents\visual studio 2013\Projects\CinemaSeatReservation\CinemaSeatReservation\bin\Debug\CinemaSeatReservation.exe.config
+c:\users\ferhat\documents\visual studio 2013\Projects\CinemaSeatReservation\CinemaSeatReservation\bin\Debug\CinemaSeatReservation.exe
+c:\users\ferhat\documents\visual studio 2013\Projects\CinemaSeatReservation\CinemaSeatReservation\bin\Debug\CinemaSeatReservation.pdb
+c:\users\ferhat\documents\visual studio 2013\Projects\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.csprojResolveAssemblyReference.cache
+c:\users\ferhat\documents\visual studio 2013\Projects\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.Form1.resources
+c:\users\ferhat\documents\visual studio 2013\Projects\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.Properties.Resources.resources
+c:\users\ferhat\documents\visual studio 2013\Projects\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.csproj.GenerateResource.Cache
+c:\users\ferhat\documents\visual studio 2013\Projects\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.exe
+c:\users\ferhat\documents\visual studio 2013\Projects\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.pdb
+H:\CinemaSeatReservation\CinemaSeatReservation\bin\Debug\CinemaSeatReservation.exe.config
+H:\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.exe
+H:\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.pdb
+H:\CinemaSeatReservation\CinemaSeatReservation\bin\Debug\CinemaSeatReservation.exe
+H:\CinemaSeatReservation\CinemaSeatReservation\bin\Debug\CinemaSeatReservation.pdb
+H:\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.csprojResolveAssemblyReference.cache
+H:\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.Form1.resources
+H:\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.Properties.Resources.resources
+H:\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.csproj.GenerateResource.Cache
+F:\CinemaSeatReservation\CinemaSeatReservation\bin\Debug\CinemaSeatReservation.exe.config
+F:\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.exe
+F:\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.pdb
+F:\CinemaSeatReservation\CinemaSeatReservation\bin\Debug\CinemaSeatReservation.exe
+F:\CinemaSeatReservation\CinemaSeatReservation\bin\Debug\CinemaSeatReservation.pdb
+F:\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.csprojResolveAssemblyReference.cache
+F:\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.Form1.resources
+F:\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.Properties.Resources.resources
+F:\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.csproj.GenerateResource.Cache
+C:\Users\Ferhat\Documents\Visual Studio 2013\Projects\Programming languages\CinemaSeatReservation\CinemaSeatReservation\bin\Debug\CinemaSeatReservation.exe.config
+C:\Users\Ferhat\Documents\Visual Studio 2013\Projects\Programming languages\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.exe
+C:\Users\Ferhat\Documents\Visual Studio 2013\Projects\Programming languages\CinemaSeatReservation\CinemaSeatReservation\obj\Debug\CinemaSeatReservation.pdb
